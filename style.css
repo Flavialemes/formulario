@@ -7,14 +7,14 @@ thead {
 
 background: #555555;
 
-color: white;
+color: red;
 
 font-weight: bold;
 }td {
 
 border: 1px solid #000000;
 
-border-color: cor;
+border-color: black;
 
 }
 
@@ -22,6 +22,6 @@ td, th {
 
 border: 1px solid #000000;
 
-border-color:
+border-color:black;
 }
 
